@@ -41,3 +41,12 @@ button[type=submit] {
 button[type=submit]:hover {
   background-color: #45a049;
 }
+
+.activities {
+  display: flex;
+  flex-direction: row;
+}
+
+.activities li {
+  width: 5%;
+}
